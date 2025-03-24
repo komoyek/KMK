@@ -237,8 +237,8 @@ Through this innovative approach, KOMOYEK aims to transform education from a pur
 
 ## Contact Information
 
-- Website: [Website URL]
-- Email: [Contact email]
-- Telegram: [Telegram group]
-- Twitter: [Twitter handle]
-- GitHub: [GitHub repository]
+Contact Information
+•	Website: https://quizify-io.com 
+•	Email: komoyek@quizify-io.com 
+•	GitHub: https://github.com/komoyek 
+
